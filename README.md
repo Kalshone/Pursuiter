@@ -65,6 +65,28 @@ npm install
 npm start
 ```
 
+## Screenshots
+
+*Landing Page*
+
+<img width="1728" alt="Screen Shot 2024-09-04 at 7 59 21 PM" src="https://github.com/user-attachments/assets/c08e1bdb-8565-4079-b7dc-c4a48fe04f9c">
+
+*Login*
+
+<img width="1728" alt="Screen Shot 2024-09-04 at 7 59 33 PM" src="https://github.com/user-attachments/assets/070c7a9c-e355-424d-9caf-722d2ce87ced">
+
+*Applicant dashboard*
+
+<img width="1720" alt="Screen Shot 2024-09-04 at 8 02 01 PM" src="https://github.com/user-attachments/assets/7c48bf33-c359-4f3b-9ca5-0e85f056887f">
+
+*Recruiter Dashboard*
+
+<img width="1728" alt="Screen Shot 2024-09-04 at 8 03 56 PM" src="https://github.com/user-attachments/assets/594ae780-affd-4cbb-9844-d778db9a94c1">
+
+*Recruiter Applicant View*
+
+<img width="1728" alt="Screen Shot 2024-09-04 at 8 04 53 PM" src="https://github.com/user-attachments/assets/415adc14-2915-41a9-9647-d529a92ac5a0">
+
 ## Software Architecture
 
 This projecy leverages the Model-View-Controller (MVC) architecture to ensure easier management and scalability of the application. Each layer of the architecture plays a distinct role:
