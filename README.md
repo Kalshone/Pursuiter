@@ -1,4 +1,4 @@
-# CSCC01 Final Term Project - Pursuiter
+# Pursuiter - AI Job Application Board
 
 - [About Persuiter](#about-persuiter)
 - [Installation](#installation)
